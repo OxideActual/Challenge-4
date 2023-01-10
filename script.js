@@ -33,6 +33,30 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
+    {
+        question: "What does Var mean in code?",
+        a: "video assistant referee",
+        b: "visit authorization requests",
+        c: "variable",
+        d: "viable analytical resource",
+        correct: "c",
+    },
+    {
+        question: "What does DOM mean in code?",
+        a: "Data Organization Model",
+        b: "Delayed Onset Macro",
+        c: "Document Object Model",
+        d: "Delivery Only Model",
+        correct: "d",
+    },
+    {
+        question: "What does BOM mean in code?",
+        a: "Browser Object Model",
+        b: "Browser Object Macro",
+        c: "Browser Observational Model",
+        d: "Browser Observation Macro",
+        correct: "d",
+    }
 ];
 
 //consts
