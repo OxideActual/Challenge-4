@@ -47,7 +47,7 @@ const quizData = [
         b: "Delayed Onset Macro",
         c: "Document Object Model",
         d: "Delivery Only Model",
-        correct: "d",
+        correct: "c",
     },
     {
         question: "What does BOM mean in code?",
@@ -55,7 +55,7 @@ const quizData = [
         b: "Browser Object Macro",
         c: "Browser Observational Model",
         d: "Browser Observation Macro",
-        correct: "d",
+        correct: "a",
     }
 ];
 
